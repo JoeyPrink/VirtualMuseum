@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 7bea33fff83ed420ab5aa3930fb5591a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: DSC_0503.JPG
+    100002: DSC_0504.JPG
+    100004: DSC_0505.JPG
+    100006: DSC_0506.JPG
+    100008: DSC_0507.JPG
+    100010: DSC_0508.JPG
+    100012: DSC_0509.JPG
+    100014: DSC_0510.JPG
+    100016: DSC_0511.JPG
+    100018: DSC_0512.JPG
+    100020: DSC_0513.JPG
+    100022: DSC_0514.JPG
+    100024: DSC_0515.JPG
+    100026: DSC_0516.JPG
+    100028: DSC_0517.JPG
+    100030: DSC_0518.JPG
+    100032: DSC_0519.JPG
+    100034: DSC_0520.JPG
+    100036: DSC_0521.JPG
+    100038: DSC_0522.JPG
+    100040: DSC_0523.JPG
+    100042: DSC_0524.JPG
+    100044: DSC_0525.JPG
+    100046: DSC_0526.JPG
+    100048: DSC_0527.JPG
+    100050: DSC_0528.JPG
+    100052: DSC_0529.JPG
+    100054: DSC_0530.JPG
+    100056: DSC_0531.JPG
+    100058: DSC_0532.JPG
+    100060: DSC_0533.JPG
+    100062: DSC_0534.JPG
+    100064: DSC_0535.JPG
+    100066: DSC_0536.JPG
+    100068: DSC_0537.JPG
+    100070: //RootNode
+    100072: Model
+    400000: DSC_0503.JPG
+    400002: DSC_0504.JPG
+    400004: DSC_0505.JPG
+    400006: DSC_0506.JPG
+    400008: DSC_0507.JPG
+    400010: DSC_0508.JPG
+    400012: DSC_0509.JPG
+    400014: DSC_0510.JPG
+    400016: DSC_0511.JPG
+    400018: DSC_0512.JPG
+    400020: DSC_0513.JPG
+    400022: DSC_0514.JPG
+    400024: DSC_0515.JPG
+    400026: DSC_0516.JPG
+    400028: DSC_0517.JPG
+    400030: DSC_0518.JPG
+    400032: DSC_0519.JPG
+    400034: DSC_0520.JPG
+    400036: DSC_0521.JPG
+    400038: DSC_0522.JPG
+    400040: DSC_0523.JPG
+    400042: DSC_0524.JPG
+    400044: DSC_0525.JPG
+    400046: DSC_0526.JPG
+    400048: DSC_0527.JPG
+    400050: DSC_0528.JPG
+    400052: DSC_0529.JPG
+    400054: DSC_0530.JPG
+    400056: DSC_0531.JPG
+    400058: DSC_0532.JPG
+    400060: DSC_0533.JPG
+    400062: DSC_0534.JPG
+    400064: DSC_0535.JPG
+    400066: DSC_0536.JPG
+    400068: DSC_0537.JPG
+    400070: //RootNode
+    400072: Model
+    2300000: Model
+    3300000: Model
+    4300000: Model
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
